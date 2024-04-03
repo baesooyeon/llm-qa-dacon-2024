@@ -5,7 +5,7 @@
 - 대회 기간 : 2024년 01월 29일 ~ 2024년 03월 14일
 - 주최/주관
   - 주최 : 한솔데코
-  - 주관 : 데이
+  - 주관 : 데이콘
 
 
 ## 결과
@@ -16,7 +16,7 @@
 
 
 ## 상세내용
-[PPT](https://github.com/baesooyeon/llm-qa-dacon-2024/blob/main/2.pdf/%EB%8F%84%EB%B0%B0%ED%95%98%EC%9E%90_ppt_%EB%8F%84%EB%B0%B0%EB%8B%A8.pdf) 및 [code](https://github.com/baesooyeon/llm-qa-dacon-2024/tree/main/1.code) 참고
+[pdf](https://github.com/baesooyeon/llm-qa-dacon-2024/blob/main/2.pdf/%EB%8F%84%EB%B0%B0%ED%95%98%EC%9E%90_ppt_%EB%8F%84%EB%B0%B0%EB%8B%A8.pdf) 및 [code](https://github.com/baesooyeon/llm-qa-dacon-2024/tree/main/1.code) 참고
 
 
 
