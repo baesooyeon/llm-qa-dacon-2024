@@ -16,7 +16,7 @@
 
 
 ## 상세내용
-[PPT](https://github.com/baesooyeon/llm-qa-dacon-2024/blob/main/2.pdf/%EB%8F%84%EB%B0%B0%ED%95%98%EC%9E%90_ppt_%EB%8F%84%EB%B0%B0%EB%8B%A8.pdf) 및 [code](https://github.com/baesooyeon/Dacon_Jeju_ts_forecasting/tree/main/0.code](https://github.com/baesooyeon/llm-qa-dacon-2024/tree/main/1.code) 참고
+[PPT](https://github.com/baesooyeon/llm-qa-dacon-2024/blob/main/2.pdf/%EB%8F%84%EB%B0%B0%ED%95%98%EC%9E%90_ppt_%EB%8F%84%EB%B0%B0%EB%8B%A8.pdf) 및 [code](https://github.com/baesooyeon/llm-qa-dacon-2024/tree/main/1.code) 참고
 
 
 
