@@ -30,7 +30,7 @@
   : prompt template 설정 모듈
 - `run.sh`
   : sft 실행 shell 파일
-- `run_rag.sh'
+- `run_rag.sh`
   : rag를 이용한 sft 실행 shell 파일
 - `model/final_`
   : 학습된 모델
